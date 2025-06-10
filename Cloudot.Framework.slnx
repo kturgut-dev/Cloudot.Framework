@@ -1,0 +1,6 @@
+﻿<Solution>
+    <Folder Name="/src/"/>
+    <Folder Name="/src/Core/">
+        <Project Path="Cloudot.Framework.Core\Cloudot.Framework.Core.csproj" Type="Classic C#"/>
+    </Folder>
+</Solution>
